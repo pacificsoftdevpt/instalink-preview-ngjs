@@ -1,0 +1,22 @@
+{
+  "name": "instalink-preview-ngjs",
+  "description": "",
+  "main": [
+    "instalink-2.1.10.css",
+    "instalink-2.1.10.js",
+    "instalink-preview.js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">1.10.0"
+  }
+}
