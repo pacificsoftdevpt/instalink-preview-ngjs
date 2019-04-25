@@ -6,7 +6,7 @@ How to use?
 
 - Load module: instalinkPreviewNgjs
 
-- Add <instalink-preview-ngjs options="{}"></instalink-preview-ngjs> to html file with options param:
+- Add `<instalink-preview-ngjs options="{}"></instalink-preview-ngjs>` to html file with options param:
   
   api	—	URL address to the /instalink/api/ folder. InstaLink API requires PHP 5.2+ version.
   
